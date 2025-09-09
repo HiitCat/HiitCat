@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm [Maxence Zolnieruck](https://www.linkedin.com/in/maxence-zol/) 👋
 
-<!--
-**HiitCat/HiitCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://custom-icon-badges.herokuapp.com/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxence-zol/)
+[![Root Me](https://custom-icon-badges.herokuapp.com/badge/rootme-white?style=for-the-badge&logo=rootme&color=dedede)](https://root-me.org/HitCat-750430?inc=score)
+[![CTFTime](https://custom-icon-badges.herokuapp.com/badge/ctftime-red?style=for-the-badge&logo=ctf&color=E3000B)](https://ctftime.org/user/161277)
 
-Here are some ideas to get you started:
+I'm a Cybersecurity engineer who love CTFs and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Checkout my personal projects on [GitHub](https://github.com/HiitCat) or the challenges I solved on [Root-Me](https://root-me.org/HitCat-750430?inc=score) / [Write-ups](https://blog.hitc.at/)!
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/Up0LbM5fBQIAAAAC/hack.gif" width="100%"/>
+</p>
