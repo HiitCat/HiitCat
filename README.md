@@ -8,6 +8,4 @@ I'm a Cybersecurity engineer who love CTFs and learning new technologies.
 
 Checkout my personal projects on [GitHub](https://github.com/HiitCat) or the challenges I solved on [Root-Me](https://root-me.org/HitCat-750430?inc=score) / [Write-ups](https://blog.hitc.at/)!
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/Up0LbM5fBQIAAAAC/hack.gif" width="100%"/>
-</p>
+<img src="https://github.com/HiitCat/HiitCat/blob/main/hack.gif" width="50%"/>
