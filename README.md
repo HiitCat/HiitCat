@@ -8,7 +8,8 @@ I enjoy tackling **CTF competitions**, experimenting with new technologies, and 
 🚩 Member of the French CTF team [**fish3r**](https://ctftime.org/team/368433/).
 
 👉 Explore my work:
-- ✍️ **[CTF Write-ups](https://blog.hitc.at/)**
+- 🎯 **[JWT Arsenal](https://jwtarsenal.com)**
+- ✍️ [CTF Write-ups](https://blog.hitc.at/)
 - 💻 [GitHub Projects](https://github.com/HiitCat?tab=repositories)
 
 <img src="https://github.com/HiitCat/HiitCat/blob/main/hack.gif" width="50%"/>
