@@ -2,11 +2,7 @@
 
 I'm HitCat, welcome on my GitHub.
 
-🔭 Currently going down the Azure / Entra ID rabbit hole.
-
-⚔️ Web offensive is my main domain - client-side and server-side.
-
-🚩 CTF player with [fish3r](https://ctftime.org/team/368433/)
+🚩 Red Teamer @ Société Générale
 
 📫 Open an issue to contact me =]
 
