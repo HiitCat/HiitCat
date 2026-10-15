@@ -2,9 +2,7 @@
 
 I'm HitCat, welcome on my GitHub.
 
-🚩 Red Teamer @ Société Générale
-
-📫 Open an issue to contact me =]
+📫 Conact me on [X](https://x.com/hitc_at) =]
 
 ![](hack.gif)
 
